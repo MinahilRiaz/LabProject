@@ -1,0 +1,20 @@
+body
+{background: linear-gradient(to right, rgb(125, 207, 235), rgb(196, 121, 219));}
+.navbar
+{ display: flex; justify-content: space-between; align-items: center; padding: 15px 60px;}
+.links
+{font-weight: bold;}
+.linksb
+{display: flex; gap: 30px;}
+#a
+{font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 40px; color: black;font-size: 40px; border: 7px solid rgb(92, 34, 61); padding: 8px; background-color: rgb(103, 74, 126);}
+.b
+{text-align: center ; color: rgb(82, 25, 102); padding-top: 70px;}
+#b
+{font-size: 50px;}
+#c
+{font-size: 20px;}
+#d
+{font-size: 18px;}
+a
+{text-decoration: none; color: black; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 15px;}

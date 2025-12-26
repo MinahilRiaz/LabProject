@@ -1,0 +1,18 @@
+body
+{background: linear-gradient(to right, rgb(137, 106, 185), rgb(203, 127, 209));}
+.navbar
+{ display: flex; justify-content: space-between; align-items: center; padding: 15px 60px;}
+.links
+{font-weight: bold;}
+.linksb
+{display: flex; gap: 30px;}
+#a
+{font-family: Verdana, Geneva, Tahoma, sans-serif; color: black;font-size: 40px; border: 7px solid rgb(92, 34, 61); padding: 8px; background-color: rgb(103, 74, 126);}
+a
+{text-decoration: none; color: black; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 15px;}
+#b
+{text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(0, 0, 0); font-size: 40px;}
+.container
+{background-color: rgb(98, 81, 171); padding: 40px; border: 6px solid black;}
+#c
+{color: rgb(0, 0, 0); font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 18px;}
